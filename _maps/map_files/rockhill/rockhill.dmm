@@ -11203,6 +11203,11 @@
 /obj/machinery/light/rogue/firebowl/stump,
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rtfield)
+"mIB" = (
+/obj/structure/flora/roguegrass/bush,
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/grass,
+/area/rogue/outdoors/rtfield)
 "mJh" = (
 /obj/structure/table/wood{
 	icon_state = "tablewood1"
@@ -310209,7 +310214,7 @@ wSn
 wSn
 wSn
 qvR
-qvR
+qAT
 qvR
 hFN
 spp
@@ -315434,7 +315439,7 @@ hcW
 qvR
 uaL
 wSn
-rDP
+mIB
 sjP
 mAF
 sgP
